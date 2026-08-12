@@ -1,0 +1,6 @@
+There’s an assumption in the “C” language that may seem surprising at first glance: the char type is treated as a special kind of int type. This means that:
+
+    You can always assign a char value to an int variable;
+    You can always assign an int value to a char variable, but if the value exceeds 255 (the top-most character code in ASCII), you must expect a loss of value;
+    The value of the char type can be subject to the same operators as the data of type int.
+

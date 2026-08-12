@@ -1,0 +1,30 @@
+We can print formatted strings using printf function
+
+printf("Sheep counted so far: %d", SheepCounter);
+
+
+
+
+Let’s have a look at an abbreviated list of specifiers now
+
+
+%d (as in decimal) specifies that the corresponding argument is a value of 
+type int and should be presented as a fixed-point decimal number; 
+its synonym is a %i specifier (as in integer).
+
+%x (as in hexadecimal) specifies that the corresponding argument is a value 
+of type int and should be presented as a fixed-point hexadecimal number.
+
+%o (as in octal) specifies that the corresponding argument is a value of 
+type int and should be presented as a fixed-point octal number.
+
+%c (as in char) specifies that the corresponding argument is a value of type 
+int or char and should be presented as a character.
+
+%f (as in float) specifies that the corresponding argument is a value of type float and 
+should be presented as a single-precision floating-point number.
+
+%lf specifies that the corresponding argument is a value of type double and should be 
+presented as a double-precision floating-point number.
+
+%% (as in itself) specifies the percent sign.

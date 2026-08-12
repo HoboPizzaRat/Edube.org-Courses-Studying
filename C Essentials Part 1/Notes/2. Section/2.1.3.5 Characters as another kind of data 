@@ -1,0 +1,12 @@
+
+Escape characters
+
+The “C” language allows us to escape in other circumstances too. Let's start with those that denote literals representing white spaces.
+
+\n – denotes a transition to a new line and is sometimes called an LF (Line Feed), as printers react to this character by pulling out the paper by one line of text.
+
+\r – denotes the return to the beginning of the line and is sometimes called a CR (Carriage Return – “carriage” was the synonym of a “print head” in the typewriter era); printers respond to this character as if they are told to re-start printing from the left margin of the already printed line.
+
+\a (as in alarm) is a relic of the past when teletypes were often used to communicate with computers (do you know what a teletype is, are you old enough to remember them?); sending this character to a teletype turns on its ringer; hence, the character is officially called BEL (as in bell); interestingly, if you try to send the character to the screen, you’ll hear a sound – it won't be a real ringing but rather a short beep. The power of tradition works even in the IT world.
+
+\0 (note: the character after the backslash is a zero, not the letter O) called nul (from the Latin word nullus – none) is a character that does not represent any character; despite first impressions, it could be very useful, as we’ll show you in the lessons to come.

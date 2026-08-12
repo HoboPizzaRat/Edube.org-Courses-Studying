@@ -1,0 +1,15 @@
+We can define a word as a string 
+of characters 
+(letters, numbers, punctuation marks, etc.).
+
+Let's try to declare a variable for storing a single character:
+```
+char Character;
+```
+
+These char values are defined in the ASCII standard
+
+
+This is how we can assign values to char types.
+Do take a note of the apostrophes, we dont use double hyphesn and shit for this
+Character = 'A';
