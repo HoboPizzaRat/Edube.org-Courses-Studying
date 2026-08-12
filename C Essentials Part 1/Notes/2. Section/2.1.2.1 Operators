@@ -19,3 +19,63 @@ y = 0.5;
 z = x * y;
 ```
 
+
+
+## division
+
+A slash (/) is a divisional operator. 
+The value in front of the slash is a dividend, 
+the value behind the slash, a divisor.
+
+```
+int i,j,k;
+float x,y,z;
+
+i = 10; j = 5;
+k = i / j;
+x = 1.0; y = 2.0;
+z = x / y;
+```
+division by zero is strictly forbidden, Just keep that in mind.
+
+
+## addition and substraction
+
+using the + and - signs, respectively
+```
+int i,j,k;
+float x,y,z;
+
+i = 100; j = 2;
+k = i - j;
+x = 1.0; y = 0.02;
+z = x + y;
+```
+
+
+## Unary minus
+
+eh you can make a number negative using the - sign in front of it
+```
+int i,j;
+
+i = -100;
+j = -i;
+```
+
+
+## remainder
+
+The remainder operator (or modulus as it is often called) 
+is quite a peculiar operator, 
+because it has no equivalent among traditional arithmetic operators.
+```
+int i,j,k;
+
+i = 13;
+j = 5;
+
+k = i % j;
+```
+
+

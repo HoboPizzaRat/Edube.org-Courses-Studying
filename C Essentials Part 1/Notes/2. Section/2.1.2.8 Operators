@@ -1,0 +1,25 @@
+
+we can increase and decrese value by one liek this
+```
+variable++
+variable--
+```
+
+
+Prefix 
+
+++SheepCounter;
+
+In this way the operator gets increment 
+first before its being used in the statement
+
+
+
+Postfix
+
+SheepCounter--;
+
+In this way the operator gets first used 
+in the statement, and then decremented.
+
+

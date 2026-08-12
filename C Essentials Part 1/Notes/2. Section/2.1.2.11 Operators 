@@ -1,0 +1,18 @@
+It's time for the next set of assignment operators
+that make a developer's life easier. Those described
+earlier deal with addition and subtraction of one. 
+Very often we need something other than addition or 
+subtraction, or we want to use a value other than one. 
+  
+  
+Consider the expression below:
+
+i = i * 2;
+
+It can be shortened to
+
+i *= 2
+
+
+This applies to every mathematical operator explained before.
+
