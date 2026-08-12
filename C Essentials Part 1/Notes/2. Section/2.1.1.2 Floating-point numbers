@@ -1,0 +1,39 @@
+Floating point numbers are the type of data that can hold
+fractions of whole numbers within them
+
+There are certain limitations what kind of fractions 
+floating points can store due to the limitations of 
+computer architectures but that is not our problem
+at the moment.
+
+
+
+
+## shorthanding long flaoting point valus
+
+lets take lightspeed as an example (300000000)
+
+those can be done via writing big numbers like this:
+3 • 10^8
+
+or straiaght up using the c language way like so:
+3E8
+
+
+
+## using floating points numbers in code is easy
+
+```
+int i;
+float x;
+
+i = 10 / 4;
+x = 10.0 / 4.0;
+```
+
+Take a note when putting floating point values into integers, precision is lost.
+"
+loss of accuracy will occur, but the value assigned to the variable 
+i is not known in advance. In some systems, it may be the maximum 
+permissible int value
+"

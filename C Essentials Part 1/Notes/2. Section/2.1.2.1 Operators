@@ -1,0 +1,21 @@
+An operator is a symbol of the programming language which is able to operate on the values. For example, one assignment operator is the = sign. 
+You already know that it can assign values to variables.
+
+
+
+## Multiplication
+
+An asterisk (*) is a multiplication operator
+
+```
+int i,j,k;
+float x,y,z;
+
+i = 10; 
+j = 12;
+k = i * j;
+x = 1.25; 
+y = 0.5;
+z = x * y;
+```
+
