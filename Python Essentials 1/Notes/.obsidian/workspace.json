@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Section/14. Using variables.md",
+                "file": "2. Section/19. String operators - introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. Using variables"
+              "title": "19. String operators - introduction"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Section/14. Using variables.md",
+                "file": "2. Section/19. String operators - introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Section/14. Using variables.md",
+                "file": "2. Section/19. String operators - introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Section/14. Using variables.md",
+                "file": "2. Section/19. String operators - introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,12 +190,17 @@
   },
   "active": "c2668de2a8a1b254",
   "lastOpenFiles": [
-    "2. Section/13. What are variables?.md",
+    "2. Section/18. Type Casting.md",
+    "2. Section/19. String operators - introduction.md",
+    "2. Section/10. The subtraction operator, unary and binary operators.md",
+    "2. Section/17. The input function.md",
+    "2. Section/16. Leaving comments in code. why, how, and when.md",
+    "2. Section/15. Shortcut operators.md",
     "2. Section/14. Using variables.md",
+    "2. Section/13. What are variables?.md",
     "2. Section/12. Operators and parentheses.md",
     "2. Section/11. Operators and their priorities.md",
     "2. Section/ZOperators and parentheses",
-    "2. Section/10. The subtraction operator, unary and binary operators.md",
     "2. Section/9. Operators addition.md",
     "2. Section/8. Operators remainder (modulo).md",
     "2. Section/7. Arithmetic operators integer division.md",
@@ -213,7 +218,6 @@
     "1. Section/3. Python2 vs python3.md",
     "1. Section/4. Cython.md",
     "1. Section/2. Why learn python.md",
-    "1. Section/1. Compilation vs Interpretation.md",
     "1. Section"
   ]
 }
