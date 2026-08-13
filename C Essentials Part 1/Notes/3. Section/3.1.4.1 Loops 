@@ -1,0 +1,7 @@
+So now you've learnt one of the loops available 
+in the “C” language. In general, 
+the loop manifests itself as follows:
+
+while(conditional_expression){
+    statement;
+}

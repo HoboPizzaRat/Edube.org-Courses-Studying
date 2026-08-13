@@ -1,0 +1,9 @@
+
+
+
+this is how you fucking do a for loop
+
+
+for(initialization; checking; modifying ){
+    /* the body goes here */
+}
