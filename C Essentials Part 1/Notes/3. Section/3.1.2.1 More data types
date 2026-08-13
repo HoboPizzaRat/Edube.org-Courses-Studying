@@ -1,0 +1,22 @@
+Most of the computers currently in use store ints using 32 bits (4 bytes); this means that 
+we can operate the ints within the range of [-2147483648 .. 2147483647]. It may happen that:
+    - we dont need such high values
+    - we need larger values
+    - the values we use may take too much space
+
+For these reasons, the “C” language provides some 
+methods for defining precisely how we intend to 
+store large/small numbers. 
+
+
+## different sized numbers
+
+Long (used to declare wider range int)
+short (used to declare smaller than int)
+unsigned (used to declare int that can be only non-negative)
+
+
+
+The long and short modifiers must not be used in conjunction with the type char 
+(why?) and (for obvious reasons) 
+must not be used simultaneously in a single declaration. 

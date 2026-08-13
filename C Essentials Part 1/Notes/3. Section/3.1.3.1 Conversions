@@ -1,0 +1,24 @@
+The “C” language knows two types of conversions:
+
+    implicit conversions, which work according to language rules and are not specified in 
+    the code in any visible way; their operation is silent and automatic;
+    
+    explicit conversions carried out at the developer's request; 
+    the developer should insert them explicitly inside the code indicating which 
+    value should be converted and into which resulting type.
+
+
+We do the conversions like this¨
+```
+(type)value
+```
+
+OR
+
+```
+float x;
+double y;
+
+y = (double) x;
+```
+
