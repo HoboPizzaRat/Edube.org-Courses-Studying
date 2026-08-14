@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Section/5. Functions and scopes.md",
+                "file": "4. Section/11. The try-except branch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Functions and scopes"
+              "title": "11. The try-except branch"
             }
           }
         ]
@@ -190,8 +190,14 @@
   },
   "active": "c2668de2a8a1b254",
   "lastOpenFiles": [
-    "4. Section/3. Paremeterized functions.md",
+    "4. Section/10. When data is not what it should be.md",
+    "4. Section/11. The try-except branch.md",
+    "4. Section/9. Errors – the developer's daily bread.md",
+    "4. Section/8. What is a dictionary?.md",
+    "4. Section/7. What is a tuple?.md",
+    "4. Section/6. Sequence types and mutability.md",
     "4. Section/5. Functions and scopes.md",
+    "4. Section/3. Paremeterized functions.md",
     "4. Section/4. Few words about none.md",
     "4. Section/2. How functions work.md",
     "4. Section/1. What the function.md",
@@ -213,12 +219,6 @@
     "2. Section/19. String operators - introduction.md",
     "3. Section",
     "2. Section/18. Type Casting.md",
-    "2. Section/10. The subtraction operator, unary and binary operators.md",
-    "2. Section/17. The input function.md",
-    "2. Section/16. Leaving comments in code. why, how, and when.md",
-    "2. Section/15. Shortcut operators.md",
-    "2. Section/14. Using variables.md",
-    "2. Section/13. What are variables?.md",
     "2. Section/ZOperators and parentheses",
     "2. Section",
     "1. Section"
