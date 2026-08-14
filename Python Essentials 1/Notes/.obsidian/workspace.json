@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Section/19. String operators - introduction.md",
+                "file": "3. Section/7. The break and continue statements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19. String operators - introduction"
+              "title": "7. The break and continue statements"
             }
           }
         ]
@@ -190,8 +190,16 @@
   },
   "active": "c2668de2a8a1b254",
   "lastOpenFiles": [
-    "2. Section/18. Type Casting.md",
+    "3. Section/6. Looping your code with for.md",
+    "3. Section/7. The break and continue statements.md",
+    "3. Section/5. Looping your code with while.md",
+    "3. Section/4. The elif statement.md",
+    "3. Section/3. Conditional execution the if-else statemen.md",
+    "3. Section/2. Conditions and conditional execution.md",
+    "3. Section/1. Comparison operators.md",
     "2. Section/19. String operators - introduction.md",
+    "3. Section",
+    "2. Section/18. Type Casting.md",
     "2. Section/10. The subtraction operator, unary and binary operators.md",
     "2. Section/17. The input function.md",
     "2. Section/16. Leaving comments in code. why, how, and when.md",
@@ -210,14 +218,7 @@
     "2. Section/3. Floats.md",
     "2. Section/2. Integers.md",
     "2. Section/1. Literals - the data in itself.md",
-    "1. Section/8. Code Fixing.md",
     "2. Section",
-    "1. Section/7. First program.md",
-    "1. Section/6. How to get started on pytho.md",
-    "1. Section/5. How to get python.md",
-    "1. Section/3. Python2 vs python3.md",
-    "1. Section/4. Cython.md",
-    "1. Section/2. Why learn python.md",
     "1. Section"
   ]
 }
