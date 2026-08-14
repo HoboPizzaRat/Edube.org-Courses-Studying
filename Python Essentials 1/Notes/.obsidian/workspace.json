@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Section/11. Functions vs methods.md",
+                "file": "3. Section/13. The in and not in operators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Functions vs methods"
+              "title": "13. The in and not in operators"
             }
           }
         ]
@@ -190,8 +190,11 @@
   },
   "active": "c2668de2a8a1b254",
   "lastOpenFiles": [
-    "3. Section/10. Binary left shift and binary right shift.md",
+    "3. Section/12. Python slices.md",
+    "3. Section/13. The in and not in operators.md",
+    "3. Section/13. The in and not in operators",
     "3. Section/11. Functions vs methods.md",
+    "3. Section/10. Binary left shift and binary right shift.md",
     "3. Section/9. Bitwise operators.md",
     "3. Section/8. and or and not in comparisons.md",
     "3. Section/7. The break and continue statements.md",
@@ -216,8 +219,6 @@
     "2. Section/9. Operators addition.md",
     "2. Section/8. Operators remainder (modulo).md",
     "2. Section/7. Arithmetic operators integer division.md",
-    "2. Section/6. Boolean values.md",
-    "2. Section/5. Strings.md",
     "2. Section",
     "1. Section"
   ]
