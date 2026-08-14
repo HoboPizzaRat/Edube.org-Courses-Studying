@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Section/13. The in and not in operators.md",
+                "file": "4. Section/5. Functions and scopes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. The in and not in operators"
+              "title": "5. Functions and scopes"
             }
           }
         ]
@@ -190,8 +190,14 @@
   },
   "active": "c2668de2a8a1b254",
   "lastOpenFiles": [
-    "3. Section/12. Python slices.md",
+    "4. Section/3. Paremeterized functions.md",
+    "4. Section/5. Functions and scopes.md",
+    "4. Section/4. Few words about none.md",
+    "4. Section/2. How functions work.md",
+    "4. Section/1. What the function.md",
     "3. Section/13. The in and not in operators.md",
+    "4. Section",
+    "3. Section/12. Python slices.md",
     "3. Section/13. The in and not in operators",
     "3. Section/11. Functions vs methods.md",
     "3. Section/10. Binary left shift and binary right shift.md",
@@ -213,12 +219,7 @@
     "2. Section/15. Shortcut operators.md",
     "2. Section/14. Using variables.md",
     "2. Section/13. What are variables?.md",
-    "2. Section/12. Operators and parentheses.md",
-    "2. Section/11. Operators and their priorities.md",
     "2. Section/ZOperators and parentheses",
-    "2. Section/9. Operators addition.md",
-    "2. Section/8. Operators remainder (modulo).md",
-    "2. Section/7. Arithmetic operators integer division.md",
     "2. Section",
     "1. Section"
   ]
