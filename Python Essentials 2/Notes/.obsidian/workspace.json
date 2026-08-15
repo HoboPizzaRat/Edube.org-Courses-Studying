@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Section/13. How to use pip.md",
+                "file": "1. Section/9. Some functions fromt the PLATFORM module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. How to use pip"
+              "title": "9. Some functions fromt the PLATFORM module"
             }
           }
         ]
@@ -190,10 +190,10 @@
   },
   "active": "36ad61b24d4654f2",
   "lastOpenFiles": [
+    "1. Section/10. Importing your first packages in python.md",
     "1. Section/11. Python packaging ecosystem and how to use pip.md",
     "1. Section/13. How to use pip.md",
     "1. Section/12. Dependencies.md",
-    "1. Section/10. Importing your first packages in python.md",
     "1. Section/9. Some functions fromt the PLATFORM module.md",
     "1. Section/8. Selected functions from the random module - randint, choice, sample.md",
     "1. Section/7. Some random module functions.md",
