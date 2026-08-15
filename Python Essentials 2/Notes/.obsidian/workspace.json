@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Section/9. Some functions fromt the PLATFORM module.md",
+                "file": "2. Section/10. Python string sare immutable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Some functions fromt the PLATFORM module"
+              "title": "10. Python string sare immutable"
             }
           }
         ]
@@ -190,11 +190,24 @@
   },
   "active": "36ad61b24d4654f2",
   "lastOpenFiles": [
+    "2. Section/9. The in Operator.md",
+    "2. Section/10. Python string sare immutable.md",
+    "2. Section/8. Slices.md",
+    "2. Section/7. Strings as sequences - indexing.md",
+    "2. Section/6. Operations on strings - ord().md",
+    "2026-08-15.md",
+    "2. Section/5. Multiline strings.md",
+    "2. Section/4. UTF-8.md",
+    "2. Section/3. Unicode.md",
+    "2. Section/2. Code points and code pages.md",
+    "2. Section/1. How compuoters understand single characters.md",
+    "1. Section/1. What is a module.md",
+    "2. Section",
+    "1. Section/9. Some functions fromt the PLATFORM module.md",
     "1. Section/10. Importing your first packages in python.md",
     "1. Section/11. Python packaging ecosystem and how to use pip.md",
     "1. Section/13. How to use pip.md",
     "1. Section/12. Dependencies.md",
-    "1. Section/9. Some functions fromt the PLATFORM module.md",
     "1. Section/8. Selected functions from the random module - randint, choice, sample.md",
     "1. Section/7. Some random module functions.md",
     "1. Section/6. Some math module functions.md",
@@ -202,7 +215,6 @@
     "1. Section/4. Importing a module as a keyword.md",
     "1. Section/3. Importing a module continued.md",
     "1. Section/2. Importing a module.md",
-    "1. Section/1. What is a module.md",
     "0. Section/Course Syllabus.md",
     "0. Section",
     "1. Section"
