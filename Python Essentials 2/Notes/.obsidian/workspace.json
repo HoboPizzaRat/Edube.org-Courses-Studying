@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Section/28. Sorting.md",
+                "file": "2. Section/30. Exceptions - continued.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28. Sorting"
+              "title": "30. Exceptions - continued"
             }
           }
         ],
@@ -219,8 +219,10 @@
   },
   "active": "5af24476c7bf1e5a",
   "lastOpenFiles": [
-    "2. Section/27. Comparing strings.md",
+    "2. Section/29. Exceptions.md",
+    "2. Section/30. Exceptions - continued.md",
     "2. Section/28. Sorting.md",
+    "2. Section/27. Comparing strings.md",
     "2. Section/20. islower(), isspace(), isupper() methods.md",
     "2. Section/19. isalpha() and isdigit().md",
     "2. Section/18. The isalnum() method.md",
@@ -244,8 +246,6 @@
     "2. Section/Nimetön",
     "2. Section/10. Python string sare immutable.md",
     "2. Section/6. Operations on strings - ord().md",
-    "2026-08-15.md",
-    "2. Section/5. Multiline strings.md",
     "2. Section",
     "0. Section",
     "1. Section"
