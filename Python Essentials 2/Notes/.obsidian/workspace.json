@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Section/7. Object approach - a stack from scratch.md",
+                "file": "3. Section/10. Class variables - continued.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Object approach - a stack from scratch"
+              "title": "10. Class variables - continued"
             }
           }
         ],
@@ -219,8 +219,11 @@
   },
   "active": "5af24476c7bf1e5a",
   "lastOpenFiles": [
-    "3. Section/6. Stack.md",
+    "3. Section/9. Class variables.md",
+    "3. Section/10. Class variables - continued.md",
+    "3. Section/8. Instance Variables.md",
     "3. Section/7. Object approach - a stack from scratch.md",
+    "3. Section/6. Stack.md",
     "3. Section/5. Objects properties.md",
     "3. Section/4. Inheritance.md",
     "3. Section/3. What is an object.md",
@@ -243,9 +246,6 @@
     "2. Section/11. Operations on strings - min() and max().md",
     "2. Section/9. The in Operator.md",
     "2. Section/7. Strings as sequences - indexing.md",
-    "2. Section/8. Slices.md",
-    "2. Section/23. lsstrip(), rstrip() and strip().md",
-    "2. Section/26. the split method.md",
     "2. Section/Nimetön",
     "2. Section",
     "0. Section",
