@@ -35,6 +35,12 @@ def checkAnagram(text1, text2):
         else:
             return False
 
+    for key in anagram_dict2:
+        if key in anagram_dict2 and anagram_dict1[key] == anagram_dict2[key]:
+            pass
+        else:
+            return False
+
     return True
 
 result = checkAnagram(text1, text2)
