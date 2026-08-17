@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Section/13. innner life of objects and classes (methods inside).md",
+                "file": "3. Section/24. How to create your own exceptions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. innner life of objects and classes (methods inside)"
+              "title": "24. How to create your own exceptions"
             }
           }
         ],
@@ -219,8 +219,19 @@
   },
   "active": "5af24476c7bf1e5a",
   "lastOpenFiles": [
-    "3. Section/12. Methods in detail.md",
+    "3. Section/23. Detailed anatomy of exceptions.md",
+    "3. Section/24. How to create your own exceptions.md",
+    "3. Section/22. More about exceptions.md",
+    "3. Section/21. What is Method Resolution Order (MRO) and why is it that not all inheritances make sense.md",
+    "3. Section/20. How to build a hierarchy of classes.md",
+    "3. Section/19. How Python finds properties and methods - continued.md",
+    "3. Section/18. How Python finds properties and methods.md",
+    "3. Section/17. Inheritance - the is operator.md",
+    "3. Section/16. Inheritance - isinstance().md",
+    "3. Section/15. Inheritance - issubclass().md",
+    "3. Section/14. Inheritance - why and how.md",
     "3. Section/13. innner life of objects and classes (methods inside).md",
+    "3. Section/12. Methods in detail.md",
     "3. Section/11. Checking an attributes existence.md",
     "3. Section/10. Class variables - continued.md",
     "3. Section/9. Class variables.md",
@@ -235,17 +246,6 @@
     "2. Section/30. Exceptions - continued.md",
     "3. Section",
     "2. Section/29. Exceptions.md",
-    "2. Section/28. Sorting.md",
-    "2. Section/27. Comparing strings.md",
-    "2. Section/20. islower(), isspace(), isupper() methods.md",
-    "2. Section/19. isalpha() and isdigit().md",
-    "2. Section/18. The isalnum() method.md",
-    "2. Section/17. The find() method.md",
-    "2. Section/16. The endswith() and startswith() methods.md",
-    "2. Section/15. The center() method.md",
-    "2. Section/13. Operations on strinsg - the list() function.md",
-    "2. Section/14. The capitalize() method.md",
-    "2. Section/12. Operations on strings - the index method.md",
     "2. Section/Nimetön",
     "2. Section",
     "0. Section",
