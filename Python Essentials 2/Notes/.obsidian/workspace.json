@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Section/24. How to create your own exceptions.md",
+                "file": "4. Section/5. Map function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24. How to create your own exceptions"
+              "title": "5. Map function"
             }
           }
         ],
@@ -219,8 +219,14 @@
   },
   "active": "5af24476c7bf1e5a",
   "lastOpenFiles": [
-    "3. Section/23. Detailed anatomy of exceptions.md",
+    "4. Section/4. The lambda function.md",
+    "4. Section/5. Map function.md",
+    "4. Section/3. List comprehensions vs. generators.md",
+    "4. Section/2. List comprehensions.md",
+    "4. Section/1. Generators - where to find them.md",
     "3. Section/24. How to create your own exceptions.md",
+    "4. Section",
+    "3. Section/23. Detailed anatomy of exceptions.md",
     "3. Section/22. More about exceptions.md",
     "3. Section/21. What is Method Resolution Order (MRO) and why is it that not all inheritances make sense.md",
     "3. Section/20. How to build a hierarchy of classes.md",
@@ -240,12 +246,7 @@
     "3. Section/6. Stack.md",
     "3. Section/5. Objects properties.md",
     "3. Section/4. Inheritance.md",
-    "3. Section/3. What is an object.md",
-    "3. Section/2. Class Hierarchies.md",
-    "3. Section/1. Procedural vs the object-oriented approach.md",
-    "2. Section/30. Exceptions - continued.md",
     "3. Section",
-    "2. Section/29. Exceptions.md",
     "2. Section/Nimetön",
     "2. Section",
     "0. Section",
