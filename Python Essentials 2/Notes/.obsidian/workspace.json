@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Section/5. Map function.md",
+                "file": "4. Section/18. Writing to stderr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Map function"
+              "title": "18. Writing to stderr"
             }
           }
         ],
@@ -75,7 +75,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Tiedostot"
+              "title": "Files"
             }
           },
           {
@@ -208,19 +208,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Avaa pikavaihdin": false,
-      "graph:Avaa verkkonäkymä": false,
-      "canvas:Luo uusi valkotaulu": false,
-      "daily-notes:Avaa tämän päivän muistiinpanot": false,
-      "templates:Lisää malline": false,
-      "command-palette:Avaa komentovalikko": false,
-      "bases:Luo uusi kanta": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "5af24476c7bf1e5a",
   "lastOpenFiles": [
-    "4. Section/4. The lambda function.md",
+    "4. Section/17. Dealing with text files - write().md",
+    "4. Section/18. Writing to stderr.md",
+    "4. Section/16. The readlines method.md",
+    "4. Section/15. readline method().md",
+    "4. Section/14. Processing text files.md",
+    "4. Section/13. Closing streams.md",
+    "4. Section/12. Pre-opened streams.md",
+    "4. Section/11. Writing to files practical.md",
+    "4. Section/10. Opening file streams - different modes.md",
+    "4. Section/9. File handles.md",
+    "4. Section/8. Files in python.md",
+    "4. Section/7. A brief look at closures.md",
+    "4. Section/6. the filter() function.md",
+    "4. Section/7. A brief look at closures",
     "4. Section/5. Map function.md",
+    "4. Section/4. The lambda function.md",
     "4. Section/3. List comprehensions vs. generators.md",
     "4. Section/2. List comprehensions.md",
     "4. Section/1. Generators - where to find them.md",
@@ -233,19 +247,6 @@
     "3. Section/19. How Python finds properties and methods - continued.md",
     "3. Section/18. How Python finds properties and methods.md",
     "3. Section/17. Inheritance - the is operator.md",
-    "3. Section/16. Inheritance - isinstance().md",
-    "3. Section/15. Inheritance - issubclass().md",
-    "3. Section/14. Inheritance - why and how.md",
-    "3. Section/13. innner life of objects and classes (methods inside).md",
-    "3. Section/12. Methods in detail.md",
-    "3. Section/11. Checking an attributes existence.md",
-    "3. Section/10. Class variables - continued.md",
-    "3. Section/9. Class variables.md",
-    "3. Section/8. Instance Variables.md",
-    "3. Section/7. Object approach - a stack from scratch.md",
-    "3. Section/6. Stack.md",
-    "3. Section/5. Objects properties.md",
-    "3. Section/4. Inheritance.md",
     "3. Section",
     "2. Section/Nimetön",
     "2. Section",
