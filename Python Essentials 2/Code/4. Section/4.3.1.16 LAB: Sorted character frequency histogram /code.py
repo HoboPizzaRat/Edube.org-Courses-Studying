@@ -55,7 +55,7 @@ try:
         dst.write(f"{key}: {value}\n")
     dst.close()
 except IOError as e:
-    print("Cannot write to the destination file: ", strerro(e.errno))
+    print("Cannot write to the destination file: ", strerror(e.errno))
     exit(e.errno)
     
     

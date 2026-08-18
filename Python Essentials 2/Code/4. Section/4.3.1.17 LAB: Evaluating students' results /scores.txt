@@ -1,0 +1,3 @@
+anna boleyn         : 15.5
+john smith          : 7.0
+andrew cox          : 1.5
