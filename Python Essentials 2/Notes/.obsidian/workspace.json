@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Section/25.Getting the current local date and creating date objects.md",
+                "file": "4. Section/20. Writing bytearrays to a file.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25.Getting the current local date and creating date objects"
+              "title": "20. Writing bytearrays to a file"
             }
           }
         ],
@@ -75,7 +75,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Tiedostot"
+              "title": "Files"
             }
           },
           {
@@ -208,24 +208,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Avaa pikavaihdin": false,
-      "graph:Avaa verkkonäkymä": false,
-      "canvas:Luo uusi valkotaulu": false,
-      "daily-notes:Avaa tämän päivän muistiinpanot": false,
-      "templates:Lisää malline": false,
-      "command-palette:Avaa komentovalikko": false,
-      "bases:Luo uusi kanta": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "5af24476c7bf1e5a",
   "lastOpenFiles": [
-    "4. Section/24. Managing directories and navigating them.md",
     "4. Section/25.Getting the current local date and creating date objects.md",
+    "4. Section/24. Managing directories and navigating them.md",
     "4. Section/23. The system() function.md",
     "4. Section/22. Introduction to os module.md",
-    "4. Section/20. Writing bytearrays to a file.md",
     "4. Section/18. Writing to stderr.md",
     "4. Section/19. What is a bytearray.md",
+    "4. Section/20. Writing bytearrays to a file.md",
     "4. Section/21. Reading bytes from streams.md",
     "4. Section/17. Dealing with text files - write().md",
     "4. Section/16. The readlines method.md",
