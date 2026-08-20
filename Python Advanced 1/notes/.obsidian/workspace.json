@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Section/5. Inheritance and polymorphism — Inheritance is a pillar of OOP.md",
+                "file": "2. Section/7. Class decorators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Inheritance and polymorphism — Inheritance is a pillar of OOP"
+              "title": "7. Class decorators"
             }
           }
         ]
@@ -46,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Tiedostot"
             }
           },
           {
@@ -179,19 +179,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Avaa pikavaihdin": false,
+      "graph:Avaa verkkonäkymä": false,
+      "canvas:Luo uusi valkotaulu": false,
+      "daily-notes:Avaa tämän päivän muistiinpanot": false,
+      "templates:Lisää malline": false,
+      "command-palette:Avaa komentovalikko": false,
+      "bases:Luo uusi kanta": false
     }
   },
   "active": "5bf0c3ad792fcee8",
   "lastOpenFiles": [
+    "2. Section/6. Decorating functions with classes.md",
+    "2. Section/7. Class decorators.md",
+    "2. Section/5. Decorator stacking.md",
+    "2. Section/4. The fucking @decorators.md",
+    "2. Section/3. Extended function argument syntax.md",
+    "2. Section/2. Single inheritance vs multiple inheritance.md",
+    "2. Section/1. Inheritance and polymorphism — Inheritance is a pillar of OOP.md",
+    "2. Section",
     "1. Section/4. Using pythons core syntax expressions.md",
-    "1. Section/5. Inheritance and polymorphism — Inheritance is a pillar of OOP.md",
     "1. Section/3. Class Variables.md",
     "1. Section/2. Instance variables.md",
     "1. Section/1. Introduction to Object-Oriented Programming.md",
