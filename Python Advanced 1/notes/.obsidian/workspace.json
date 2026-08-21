@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Section/11. Attribute encapsulation.md",
+                "file": "3. Section/1. Exceptions - short introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Attribute encapsulation"
+              "title": "1. Exceptions - short introduction"
             }
           }
         ]
@@ -190,8 +190,10 @@
   },
   "active": "5bf0c3ad792fcee8",
   "lastOpenFiles": [
-    "2. Section/6. Decorating functions with classes.md",
     "2. Section/11. Attribute encapsulation.md",
+    "3. Section/1. Exceptions - short introduction.md",
+    "3. Section",
+    "2. Section/6. Decorating functions with classes.md",
     "2. Section/7. Class decorators.md",
     "2. Section/9. Static methods.md",
     "2. Section/8. Class methods.md",
