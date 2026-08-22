@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Section/1. Exceptions - short introduction.md",
+                "file": "4. Section/1. Copying objects using shallow and deep operations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Exceptions - short introduction"
+              "title": "1. Copying objects using shallow and deep operations"
             }
           }
         ]
@@ -190,8 +190,13 @@
   },
   "active": "5bf0c3ad792fcee8",
   "lastOpenFiles": [
-    "2. Section/11. Attribute encapsulation.md",
+    "3. Section/4. Advanced exceptions - the traceback attribute.md",
+    "4. Section/1. Copying objects using shallow and deep operations.md",
+    "4. Section",
+    "3. Section/3. Advanced exceptions - explicitly chained exceptions.md",
+    "3. Section/2. Exception handling.md",
     "3. Section/1. Exceptions - short introduction.md",
+    "2. Section/11. Attribute encapsulation.md",
     "3. Section",
     "2. Section/6. Decorating functions with classes.md",
     "2. Section/7. Class decorators.md",
