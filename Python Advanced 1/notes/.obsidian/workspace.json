@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Section/1. Copying objects using shallow and deep operations.md",
+                "file": "5. Section/4. More metaclasses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Copying objects using shallow and deep operations"
+              "title": "4. More metaclasses"
             }
           }
         ]
@@ -190,8 +190,15 @@
   },
   "active": "5bf0c3ad792fcee8",
   "lastOpenFiles": [
-    "3. Section/4. Advanced exceptions - the traceback attribute.md",
+    "5. Section/3. Creating new class with type().md",
+    "5. Section/4. More metaclasses.md",
+    "5. Section/2. Special attributes.md",
+    "5. Section/1. Introductio to metaclasses.md",
+    "4. Section/3. Python shelves build on top of pickles.md",
+    "5. Section",
+    "4. Section/2. Serialization of python objects with pickle.md",
     "4. Section/1. Copying objects using shallow and deep operations.md",
+    "3. Section/4. Advanced exceptions - the traceback attribute.md",
     "4. Section",
     "3. Section/3. Advanced exceptions - explicitly chained exceptions.md",
     "3. Section/2. Exception handling.md",
@@ -213,7 +220,6 @@
     "1. Section/3. Class Variables.md",
     "1. Section/2. Instance variables.md",
     "1. Section/1. Introduction to Object-Oriented Programming.md",
-    "0. Section/wadup/What are the contents of this course.md",
     "1. Section/Untitled",
     "0. Section/wadup",
     "0. Section",
