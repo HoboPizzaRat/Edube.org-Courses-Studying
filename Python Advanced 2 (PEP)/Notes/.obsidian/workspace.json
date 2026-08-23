@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "6e19940d26f38644",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf52894bd077add1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd87bac8672613ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Section/3. PEP rule 1 (Beautiful is better than ugly).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. PEP rule 1 (Beautiful is better than ugly)"
+            }
+          },
+          {
+            "id": "78087fde3f41884c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Section/11. PEB rule 9 (practicality beats purity).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. PEB rule 9 (practicality beats purity)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95e51eba49402a67",
+    "type": "split",
+    "children": [
+      {
+        "id": "2111dc06c71b7c69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbafdaba081cd9d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0ff568ff4be106da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2d2a4dfafae95d44",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18a770edf11f4899",
+    "type": "split",
+    "children": [
+      {
+        "id": "935c1a66761ae45d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3cf735ff05b8738",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Section/11. PEB rule 9 (practicality beats purity).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e010f0a81dcde46e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Section/11. PEB rule 9 (practicality beats purity).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9a78f2d2b60f1a4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5a5548a6ef772e46",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f4ba0816c358ec7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Section/11. PEB rule 9 (practicality beats purity).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "78087fde3f41884c",
+  "lastOpenFiles": [
+    "1. Section/10. PEB rule 8 (special cases ain't enough to break the rules).md",
+    "1. Section/11. PEB rule 9 (practicality beats purity).md",
+    "1. Section/9. PEB rule 7 (Readability counts).md",
+    "1. Section/8. PEB rule 6 (Sparse is better than dense).md",
+    "1. Section/7. PEB rule 5 (Flat is better than nested).md",
+    "1. Section/Pasted image 20260823111804.png",
+    "1. Section/6. PEB rule 4 (Complex is better than complicated).md",
+    "1. Section/5. PEB rule 3 (Simple is better than complex).md",
+    "1. Section/4. PEP rule 2 (Explicit is better than implicit).md",
+    "1. Section/3. PEP rule 1 (Beautiful is better than ugly).md",
+    "1. Section/2. PEP 20 – The Zen of Python.md",
+    "1. Section/1. What is PEP.md",
+    "1. Section/Pasted image 20260823110000.png",
+    "2. Section",
+    "1. Section"
+  ]
+}
