@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "6e19940d26f38644",
+    "id": "46643f0f163dd5f4",
     "type": "split",
     "children": [
       {
-        "id": "f4b4c844f6d036cb",
+        "id": "9785b8d3a95b9e86",
         "type": "tabs",
         "children": [
           {
-            "id": "c961fdbae19008f4",
+            "id": "1186067c7fbff1d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Section (PEB 8)/9. Whitespace in expressions and statements.md",
+                "file": "1. Section/13. Building a GUI application from scratch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Whitespace in expressions and statements"
+              "title": "13. Building a GUI application from scratch"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "95e51eba49402a67",
+    "id": "533d8502fa3611b9",
     "type": "split",
     "children": [
       {
-        "id": "2111dc06c71b7c69",
+        "id": "2dc0f438ece0d476",
         "type": "tabs",
         "children": [
           {
-            "id": "cbafdaba081cd9d0",
+            "id": "a1b16372e4a1faa2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "0ff568ff4be106da",
+            "id": "3161da743ad413f2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "2d2a4dfafae95d44",
+            "id": "31d858bfd9fd1c94",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "18a770edf11f4899",
+    "id": "0c79bc2500b91209",
     "type": "split",
     "children": [
       {
-        "id": "935c1a66761ae45d",
+        "id": "274d8eb760e6e543",
         "type": "tabs",
         "children": [
           {
-            "id": "c3cf735ff05b8738",
+            "id": "2cca5b99643dc75e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Section (PEB 8)/9. Whitespace in expressions and statements.md",
+                "file": "1. Section/13. Building a GUI application from scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +113,12 @@
             }
           },
           {
-            "id": "e010f0a81dcde46e",
+            "id": "4692de91a9f74e02",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Section (PEB 8)/9. Whitespace in expressions and statements.md",
+                "file": "1. Section/13. Building a GUI application from scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +127,7 @@
             }
           },
           {
-            "id": "9a78f2d2b60f1a4b",
+            "id": "4ba8d0d83d0eb9e3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +142,7 @@
             }
           },
           {
-            "id": "5a5548a6ef772e46",
+            "id": "dc0f520f6b4dcd86",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,12 +156,12 @@
             }
           },
           {
-            "id": "f4ba0816c358ec7f",
+            "id": "a1ca4237af372c06",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Section (PEB 8)/9. Whitespace in expressions and statements.md",
+                "file": "1. Section/13. Building a GUI application from scratch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,40 +188,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "c961fdbae19008f4",
+  "active": "1186067c7fbff1d9",
   "lastOpenFiles": [
-    "3. Section (PEB 8)/10. Trailing commas.md",
-    "3. Section (PEB 8)/8. Imports.md",
-    "3. Section (PEB 8)/7. Blank Lines.md",
-    "3. Section (PEB 8)/6. Line breaks and operators.md",
-    "3. Section (PEB 8)/12. Naming conventions – recommendations.md",
-    "3. Section (PEB 8)/11. Recommendations for using comments.md",
-    "4. Section (PEP 257)/1. Docstrings vs comments.md",
-    "4. Section (PEP 257)/2. One-line docstrings.md",
-    "4. Section (PEP 257)/4. How to access docstrings.md",
-    "4. Section (PEP 257)/3. How to document a project.md",
-    "4. Section (PEP 257)",
-    "3. Section (PEB 8)/9. Whitespace in expressions and statements.md",
-    "3. Section (PEB 8)/5. Maximum line lenght and breaks.md",
-    "3. Section (PEB 8)/4. Continuation lines.md",
-    "3. Section (PEB 8)/3. Recommendations for Code Layout.md",
-    "3. Section (PEB 8)/2. PEB compliant checkers.md",
-    "3. Section (PEB 8)/1. Introduction to PEP 8.md",
-    "2. Section (PEB 20)/2. PEP 20 – The Zen of Python.md",
-    "3. Section (PEB 8)",
-    "1. Section/1. What is PEP.md",
-    "2. Section (PEB 20)/Pasted image 20260823110000.png",
-    "2. Section (PEB 20)/Pasted image 20260823111804.png",
-    "2. Section (PEB 20)/16. PEB rule 14 (Namespaces are one honking great idea – let's do more of those!).md",
-    "2. Section (PEB 20)/3. PEP rule 1 (Beautiful is better than ugly).md",
-    "1. Section/5. PEB rule 3 (Simple is better than complex).md",
-    "1. Section/2. PEP 20 – The Zen of Python.md",
-    "1. Section/16. PEB rule 14 (Namespaces are one honking great idea – let's do more of those!).md",
-    "1. Section/4. PEP rule 2 (Explicit is better than implicit).md",
-    "1. Section/6. PEB rule 4 (Complex is better than complicated).md",
-    "2. Section (PEB 20)/7. PEB rule 5 (Flat is better than nested).md",
-    "1. Section/d",
-    "2. Section (PEB 20)",
+    "1. Section/12. Coloring widgets.md",
+    "1. Section/13. Building a GUI application from scratch.md",
+    "1. Section/11. The pack method.md",
+    "1. Section/10. Grid method.md",
+    "1. Section/9. Place method.md",
+    "1. Section/8. Settling widgets.md",
+    "1. Section/7. Event handler.md",
+    "1. Section/6. Basic Tkinter.md",
+    "1. Section/5. TkInter.md",
+    "1. Section/Untitled",
+    "1. Section/4. Events.md",
+    "1. Section/3. Classical vs. event-driven paradigm.md",
+    "1. Section/2. Widgets.md",
+    "1. Section/1. What is gui.md",
+    "Untitled.md",
     "1. Section"
   ]
 }
