@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Section/4. More metaclasses.md",
+                "file": "4. Section/3. Python shelves build on top of pickles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. More metaclasses"
+              "title": "3. Python shelves build on top of pickles"
             }
           }
         ]
@@ -190,13 +190,13 @@
   },
   "active": "5bf0c3ad792fcee8",
   "lastOpenFiles": [
-    "5. Section/3. Creating new class with type().md",
+    "4. Section/2. Serialization of python objects with pickle.md",
+    "4. Section/3. Python shelves build on top of pickles.md",
     "5. Section/4. More metaclasses.md",
+    "5. Section/3. Creating new class with type().md",
     "5. Section/2. Special attributes.md",
     "5. Section/1. Introductio to metaclasses.md",
-    "4. Section/3. Python shelves build on top of pickles.md",
     "5. Section",
-    "4. Section/2. Serialization of python objects with pickle.md",
     "4. Section/1. Copying objects using shallow and deep operations.md",
     "3. Section/4. Advanced exceptions - the traceback attribute.md",
     "4. Section",
